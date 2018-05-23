@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-23T15:12:04.000Z</updated>
+  <updated>2018-05-23T15:17:07.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/05/23/Utility/"/>
     <id>http://yoursite.com/2018/05/23/Utility/</id>
     <published>2018-05-23T14:43:13.000Z</published>
-    <updated>2018-05-23T15:12:04.000Z</updated>
+    <updated>2018-05-23T15:17:07.000Z</updated>
     
-    <content type="html"><![CDATA[<ul><li>iTerm2 <a href="https://www.iterm2.com/" target="_blank" rel="noopener">https://www.iterm2.com/</a></li><li>homebrew <a href="https://brew.sh/" target="_blank" rel="noopener">https://brew.sh/</a><br>  <code>imagemagick, htop, cask, tig</code></li><li>Alfred <a href="https://www.alfredapp.com/" target="_blank" rel="noopener">https://www.alfredapp.com/</a></li><li>Surge <a href="https://nssurge.com/" target="_blank" rel="noopener">https://nssurge.com/</a></li><li>Go2Shell <a href="http://zipzapmac.com/go2shell" target="_blank" rel="noopener">http://zipzapmac.com/go2shell</a></li><li>Epic Browser <a href="https://www.epicbrowser.com/" target="_blank" rel="noopener">https://www.epicbrowser.com/</a></li><li>Royal TS <a href="https://www.royalapplications.com/ts/mac/features" target="_blank" rel="noopener">https://www.royalapplications.com/ts/mac/features</a></li><li>TeamViewer <a href="https://www.teamviewer.com/en/" target="_blank" rel="noopener">https://www.teamviewer.com/en/</a></li><li>1Password <a href="https://1password.com/" target="_blank" rel="noopener">https://1password.com/</a></li><li>Cinch <a href="http://www.irradiatedsoftware.com/cinch/" target="_blank" rel="noopener">http://www.irradiatedsoftware.com/cinch/</a></li><li>Atom <a href="https://atom.io/" target="_blank" rel="noopener">https://atom.io/</a></li><li>Keka <a href="http://www.kekaosx.com/en/" target="_blank" rel="noopener">http://www.kekaosx.com/en/</a></li><li>The Unarchiver <a href="https://theunarchiver.com/" target="_blank" rel="noopener">https://theunarchiver.com/</a></li><li>Any IDE from JetBrains <a href="https://www.jetbrains.com/" target="_blank" rel="noopener">https://www.jetbrains.com/</a></li><li>n2n <a href="https://github.com/ntop/n2n" target="_blank" rel="noopener">https://github.com/ntop/n2n</a></li><li>tmux <a href="https://github.com/tmux/tmux" target="_blank" rel="noopener">https://github.com/tmux/tmux</a></li></ul><a id="more"></a>]]></content>
+    <content type="html"><![CDATA[<ul><li>iTerm2 <a href="https://www.iterm2.com/" target="_blank" rel="noopener">https://www.iterm2.com/</a></li><li>homebrew <a href="https://brew.sh/" target="_blank" rel="noopener">https://brew.sh/</a><br>  <code>imagemagick, htop, cask, tig</code></li><li>Alfred <a href="https://www.alfredapp.com/" target="_blank" rel="noopener">https://www.alfredapp.com/</a></li><li>Surge <a href="https://nssurge.com/" target="_blank" rel="noopener">https://nssurge.com/</a></li><li>Go2Shell <a href="http://zipzapmac.com/go2shell" target="_blank" rel="noopener">http://zipzapmac.com/go2shell</a></li><li>Epic Browser <a href="https://www.epicbrowser.com/" target="_blank" rel="noopener">https://www.epicbrowser.com/</a></li><li>Royal TS <a href="https://www.royalapplications.com/ts/mac/features" target="_blank" rel="noopener">https://www.royalapplications.com/ts/mac/features</a></li><li>TeamViewer <a href="https://www.teamviewer.com/en/" target="_blank" rel="noopener">https://www.teamviewer.com/en/</a></li><li>1Password <a href="https://1password.com/" target="_blank" rel="noopener">https://1password.com/</a></li><li>Cinch <a href="http://www.irradiatedsoftware.com/cinch/" target="_blank" rel="noopener">http://www.irradiatedsoftware.com/cinch/</a></li><li>Atom <a href="https://atom.io/" target="_blank" rel="noopener">https://atom.io/</a></li><li>Keka <a href="http://www.kekaosx.com/en/" target="_blank" rel="noopener">http://www.kekaosx.com/en/</a></li><li>The Unarchiver <a href="https://theunarchiver.com/" target="_blank" rel="noopener">https://theunarchiver.com/</a></li><li>IDE from JetBrains <a href="https://www.jetbrains.com/" target="_blank" rel="noopener">https://www.jetbrains.com/</a></li><li>n2n <a href="https://github.com/ntop/n2n" target="_blank" rel="noopener">https://github.com/ntop/n2n</a></li><li>tmux <a href="https://github.com/tmux/tmux" target="_blank" rel="noopener">https://github.com/tmux/tmux</a></li></ul><a id="more"></a>]]></content>
     
     <summary type="html">
     
@@ -41,7 +41,7 @@
 &lt;li&gt;Atom &lt;a href=&quot;https://atom.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://atom.io/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Keka &lt;a href=&quot;http://www.kekaosx.com/en/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.kekaosx.com/en/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;The Unarchiver &lt;a href=&quot;https://theunarchiver.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://theunarchiver.com/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Any IDE from JetBrains &lt;a href=&quot;https://www.jetbrains.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;IDE from JetBrains &lt;a href=&quot;https://www.jetbrains.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;n2n &lt;a href=&quot;https://github.com/ntop/n2n&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/ntop/n2n&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;tmux &lt;a href=&quot;https://github.com/tmux/tmux&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/tmux/tmux&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
