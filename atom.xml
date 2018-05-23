@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-23T14:32:32.000Z</updated>
+  <updated>2018-05-23T15:08:09.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>实用工具介绍</title>
+    <link href="http://yoursite.com/2018/05/23/Utility/"/>
+    <id>http://yoursite.com/2018/05/23/Utility/</id>
+    <published>2018-05-23T14:43:13.000Z</published>
+    <updated>2018-05-23T15:08:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>iTerm2 <a href="https://www.iterm2.com/" target="_blank" rel="noopener">https://www.iterm2.com/</a></li><li><p>homebrew <a href="https://brew.sh/" target="_blank" rel="noopener">https://brew.sh/</a></p>  <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">imagemagick, htop, cask, tig</span><br></pre></td></tr></table></figure></li><li><p>Alfred <a href="https://www.alfredapp.com/" target="_blank" rel="noopener">https://www.alfredapp.com/</a></p></li><li>Surge <a href="https://nssurge.com/" target="_blank" rel="noopener">https://nssurge.com/</a></li><li>Go2Shell <a href="http://zipzapmac.com/go2shell" target="_blank" rel="noopener">http://zipzapmac.com/go2shell</a></li><li>Epic Browser <a href="https://www.epicbrowser.com/" target="_blank" rel="noopener">https://www.epicbrowser.com/</a></li><li>Royal TS <a href="https://www.royalapplications.com/ts/mac/features" target="_blank" rel="noopener">https://www.royalapplications.com/ts/mac/features</a></li><li>TeamViewer <a href="https://www.teamviewer.com/en/" target="_blank" rel="noopener">https://www.teamviewer.com/en/</a></li><li>1Password <a href="https://1password.com/" target="_blank" rel="noopener">https://1password.com/</a></li><li>Cinch <a href="http://www.irradiatedsoftware.com/cinch/" target="_blank" rel="noopener">http://www.irradiatedsoftware.com/cinch/</a></li><li>Atom <a href="https://atom.io/" target="_blank" rel="noopener">https://atom.io/</a></li><li>Keka <a href="http://www.kekaosx.com/en/" target="_blank" rel="noopener">http://www.kekaosx.com/en/</a></li><li>The Unarchiver <a href="https://theunarchiver.com/" target="_blank" rel="noopener">https://theunarchiver.com/</a></li><li>Any IDE from JetBrains <a href="https://www.jetbrains.com/" target="_blank" rel="noopener">https://www.jetbrains.com/</a></li><li>n2n <a href="https://github.com/ntop/n2n" target="_blank" rel="noopener">https://github.com/ntop/n2n</a></li><li>tmux <a href="https://github.com/tmux/tmux" target="_blank" rel="noopener">https://github.com/tmux/tmux</a></li></ul><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ul&gt;
+&lt;li&gt;iTerm2 &lt;a href=&quot;https://www.iterm2.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.iterm2.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;homebrew &lt;a href=&quot;https://brew.sh/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://brew.sh/&lt;/a&gt;&lt;/p&gt;
+  &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;imagemagick, htop, cask, tig&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Alfred &lt;a href=&quot;https://www.alfredapp.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.alfredapp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Surge &lt;a href=&quot;https://nssurge.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://nssurge.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Go2Shell &lt;a href=&quot;http://zipzapmac.com/go2shell&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://zipzapmac.com/go2shell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Epic Browser &lt;a href=&quot;https://www.epicbrowser.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.epicbrowser.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Royal TS &lt;a href=&quot;https://www.royalapplications.com/ts/mac/features&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.royalapplications.com/ts/mac/features&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TeamViewer &lt;a href=&quot;https://www.teamviewer.com/en/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.teamviewer.com/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;1Password &lt;a href=&quot;https://1password.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://1password.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cinch &lt;a href=&quot;http://www.irradiatedsoftware.com/cinch/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.irradiatedsoftware.com/cinch/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Atom &lt;a href=&quot;https://atom.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://atom.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Keka &lt;a href=&quot;http://www.kekaosx.com/en/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://www.kekaosx.com/en/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The Unarchiver &lt;a href=&quot;https://theunarchiver.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://theunarchiver.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Any IDE from JetBrains &lt;a href=&quot;https://www.jetbrains.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.jetbrains.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;n2n &lt;a href=&quot;https://github.com/ntop/n2n&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/ntop/n2n&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;tmux &lt;a href=&quot;https://github.com/tmux/tmux&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://github.com/tmux/tmux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Shadowsocks安装使用</title>
