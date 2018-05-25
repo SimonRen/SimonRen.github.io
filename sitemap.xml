@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/05/25/HAProxy/</loc>
+    
+    <lastmod>2018-05-25T10:13:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2018/05/24/ChatBot/</loc>
     
     <lastmod>2018-05-24T15:17:42.000Z</lastmod>
